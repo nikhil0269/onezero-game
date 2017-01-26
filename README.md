@@ -12,3 +12,7 @@ you can install it by typing:
 make
 
 sudo make install
+
+
+
+and run the game by typing 'onezero' in terminal  
